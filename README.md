@@ -10,3 +10,12 @@ https://gsnedders.html5.org/outliner/，另外webStorm自带了大纲生成工�
 ## html5 css查询网址
 
 caniuse.com
+
+## 前端原型设计工具
+http://www.axure.com.cn
+
+## 前端切图工具
+photoshop
+
+## 前端交互设计
+http://www.principleformac.com
